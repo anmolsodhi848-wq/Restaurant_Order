@@ -38,7 +38,7 @@ https://github.com/anmolsodhi848-wq/Restaurant_Order/blob/main/Restaurant_Order.
 <img width="1793" height="909" alt="image" src="https://github.com/user-attachments/assets/dfde3273-9cfe-4b6a-bf59-9dda0dd36320" />
 
 
-## ** Project Insights**
+## **Project Insights**
 
 1. Italian and Asian cuisines generate the highest revenue among all categories.
 2. Asian cuisine records the highest number of orders, indicating frequent customer preference.
